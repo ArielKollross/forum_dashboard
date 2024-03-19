@@ -11,7 +11,8 @@ module.exports = {
         },
     },
 	colors: {
-		'green-500': '#00B37E',
+        'green-300': '#00B37E',
+		'green-500': '#00875f',
 		'bg_primary': '#121214',
 		'bg_secondary': '#202024',
 
